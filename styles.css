@@ -510,6 +510,7 @@ TO DO: add styles to the last paragraph in this section that will:
             - left: 0
 */
 #section4 p:last-of-type{
+    margin: 1rem 0;
 
 }
 
@@ -547,6 +548,8 @@ TO DO: add styles to the last paragraph in this section that will:
         - add the puppy-photo as a repeating background to the container
 */
 #bg-img-3{
+    background-color: var(--lt-blue) center url("images/puppy-photo.jpg");
+
     
 }
 
